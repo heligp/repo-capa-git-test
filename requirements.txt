@@ -1,0 +1,5 @@
+Flask==1.1.2
+folium==0.12.1
+requests==2.24.0
+pandas==1.2.0
+plotly==4.9.0
